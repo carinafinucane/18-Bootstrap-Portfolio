@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url("../Images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    height: calc(100vh-25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
